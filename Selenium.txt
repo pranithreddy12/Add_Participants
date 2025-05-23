@@ -1,3 +1,0 @@
-pip uninstall selenium
-
-Pip install selenium == 4.15.2
